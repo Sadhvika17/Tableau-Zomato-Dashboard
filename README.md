@@ -96,7 +96,7 @@ Screenshots of the dashboard are available in the `/screenshots` folder.
 **Sadhvika**  
 Data & Analytics | Cloud & BI Solutions
 
-- GitHub: https://github.com/sadhvika  
+- GitHub: https://github.com/sadhvika17  
 - Tableau Public: https://public.tableau.com/app/profile/sadhvika
 
 ---
