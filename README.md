@@ -1,6 +1,6 @@
 # 🍽️ Zomato Restaurant Data Analysis – Tableau Dashboard
 
-This repository contains an **interactive Tableau dashboard** built using Zomato restaurant data to analyse restaurant distribution, cuisines, delivery options, and table booking trends across cities in India.
+This repository contains an **Tableau dashboard** built using Zomato restaurant data to analyse restaurant distribution, cuisines, delivery options, and table booking trends across cities in India.
 
 The dashboard is designed to provide quick insights into **restaurant availability, customer engagement (votes), cuisine preferences, and delivery/table booking patterns**.
 
