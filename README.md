@@ -93,11 +93,11 @@ Screenshots of the dashboard are available in the `/screenshots` folder.
 
 ## 👤 Author
 
-**Syed Akram**  
+**Sadhvika**  
 Data & Analytics | Cloud & BI Solutions
 
-- GitHub: https://github.com/yourusername  
-- Tableau Public: https://public.tableau.com/app/profile/yourprofile
+- GitHub: https://github.com/sadhvika  
+- Tableau Public: https://public.tableau.com/app/profile/sadhvika
 
 ---
 
