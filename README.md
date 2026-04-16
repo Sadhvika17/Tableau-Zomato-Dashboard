@@ -6,16 +6,8 @@ The dashboard is designed to provide quick insights into **restaurant availabili
 
 ---
 
-## 🔗 Live Dashboard
-
-👉 **View the interactive Tableau dashboard:**  
-(https://public.tableau.com/)  
-
-> _Note: Best viewed on desktop browser for full interactivity._
-
----
-
 ## 📊 Dashboard Highlights
+<img width="1876" height="784" alt="Screenshot 2026-04-16 070418" src="https://github.com/user-attachments/assets/ce56e067-a21d-4a2e-8535-24f80afae7a8" />
 
 ### 🔢 Key Metrics
 - **Restaurants:** 8,652  
